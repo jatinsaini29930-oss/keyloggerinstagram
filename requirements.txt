@@ -1,0 +1,2 @@
+# No external Python packages required.
+# tkinter is normally provided by the Linux Python installation.
