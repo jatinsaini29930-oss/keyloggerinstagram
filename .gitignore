@@ -1,0 +1,9 @@
+
+### `.gitignore`
+
+```gitignore
+__pycache__/
+*.pyc
+demo_keystrokes.txt
+.env
+.DS_Store
